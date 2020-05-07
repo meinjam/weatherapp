@@ -17,3 +17,8 @@ body {
   width: 100px;
   margin-bottom: -50px;
 }
+
+.author {
+  text-align: center;
+  margin-top: 2rem;
+}
