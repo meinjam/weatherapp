@@ -1,0 +1,19 @@
+body {
+  background: linear-gradient(to left top, #ffae7ebb, #6dd5edbb);
+  /* background: linear-gradient(to left top, #ffad7ee3, #6dd5edea), url('../img/cold.jpg') center center/cover no-repeat; */
+  /* background: linear-gradient(to left top, #ffad7ee3, #6dd5edea), url('../img/sunny.jpg') center center/cover no-repeat; */
+  letter-spacing: 0.2em;
+  font-size: 0.8em;
+}
+.container {
+  max-width: 350px;
+  color: black !important;
+}
+
+.icon {
+  position: relative;
+  top: -50px;
+  border-radius: 50%;
+  width: 100px;
+  margin-bottom: -50px;
+}
